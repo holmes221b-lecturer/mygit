@@ -1,1 +1,2 @@
 Ini berkas ketiga dari branch thirdfile
+Ini penambahan dari github untuk berkas ketiga yang dibuat oleh branch thirdfile
